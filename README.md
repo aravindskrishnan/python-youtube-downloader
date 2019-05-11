@@ -66,5 +66,5 @@ except:
     print("Unfinished due to errors")
 ```
 
-For those who doesnt like to code, there is an executable file as well. You can get the file from here or download the *.py* file and compile for your specific operating system.
+For those who doesnt like to code, there is an executable file as well. You can get the file from here: https://github.com/aravindskrishnan/python-youtube-downloader/blob/master/YouTube_Downloader.exe or download the *.py* file and compile for your specific operating system.
 
